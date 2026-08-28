@@ -1,0 +1,8 @@
+{
+  "name": "Kas Kita",
+  "description": "Pencatatan kas organisasi, iuran anggota, dan pembukuan transparan",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="24"
+        android:translateY="24">
+        <!-- Main Wallet / Safe Card Background -->
+        <path
+            android:fillColor="#E7F2ED"
+            android:pathData="M8,10 C4.7,10 2,12.7 2,16 L2,44 C2,47.3 4.7,50 8,50 L52,50 C55.3,50 58,47.3 58,44 L58,16 C58,12.7 55.3,10 52,10 Z" />
+        <!-- Top Wallet Flap Accent -->
+        <path
+            android:fillColor="#C9932F"
+            android:pathData="M8,10 L52,10 C54,10 56,11.5 57,13.5 L30,28 L3,13.5 C4,11.5 6,10 8,10 Z" />
+        <!-- Golden Coin in Center -->
+        <path
+            android:fillColor="#E0B24E"
+            android:pathData="M30,37 C34.4,37 38,33.4 38,29 C38,24.6 34.4,21 30,21 C25.6,21 22,24.6 22,29 C22,33.4 25.6,37 30,37 Z" />
+        <!-- Currency Rp / Dollar symbol inside coin -->
+        <path
+            android:fillColor="#0F4C3A"
+            android:pathData="M27.5,25.5 L31.5,25.5 C32.6,25.5 33.5,26.4 33.5,27.5 C33.5,28.6 32.6,29.5 31.5,29.5 L29,29.5 L29,32.5 L27.5,32.5 Z M29,28 L31.2,28 C31.6,28 32,27.8 32,27.5 C32,27.2 31.6,27 31.2,27 L29,27 Z" />
+    </group>
+</vector>
